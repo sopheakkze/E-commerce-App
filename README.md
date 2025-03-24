@@ -1,4 +1,4 @@
-# app
+# app with fake API
 
 A new Flutter project.
 
